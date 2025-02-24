@@ -36,7 +36,7 @@ The federated mode essentially facilitates the development of a *generic* (poole
 
 * Clone the repo in a local linux environment
 * Install the dependencies in a virtual environment
-* Fire up a number of flask servers on different shells. Check the [Spawn Cluster Script](./spawn_cluster.sh) for how to export the environment. This will fire up several Xterms where server output is logged
+* Fire up a number of flask servers on different shells. Check the [Spawn Cluster Script](./spgit awn_cluster.sh) for how to export the environment. This will fire up several Xterms where server output is logged
 * Run the [Controller](./federated_run.py) script to perform the demo calculation
 
 #### Fabric based configuration
